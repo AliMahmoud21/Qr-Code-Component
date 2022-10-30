@@ -39,13 +39,12 @@ body {
     background-color: var(--color-white);
     border-radius: 20px;
     display: flex;
-    align-items: center;
     flex-direction: column;
     max-width: 20rem;
     margin: auto;
     padding: 1rem;
     box-shadow: 0 5px 20px rgba(0 0 0 / 20%);
-    text-align:center;
+    text-align: center;
 }
 img {
     max-width: 100%;
